@@ -6,5 +6,5 @@ public class Hellojava {
 			Hellojava obj=new Hellojava();
 			obj.Hellojava();
 
-}
+}// Java 
 }
